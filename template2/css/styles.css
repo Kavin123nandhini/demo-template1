@@ -237,7 +237,7 @@ html, body, div, button, input {box-sizing: border-box;}
     }
  
 section {
- 
+
   overflow: hidden;
   position: relative;
   display: flex;
@@ -326,7 +326,8 @@ section {
 
 @font-face {
   font-family: "BrownStd";
-  src: url(../fonts/BrownStd-Regular.ttf); }
+  src: url(../fonts/BrownStd-Regular/BrownStd-Regular.ttf); 
+} 
 a {
   font-size: 1.6rem;
   text-decoration: none;
